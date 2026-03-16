@@ -36,5 +36,5 @@ I maintain a collection of applied ML notebooks covering the full spectrum — f
 
 ## Connect
 
-- [Medium](https://medium.com/@nitinbhatnagar) — Technical writing on ML and forecasting
-- [LinkedIn](https://linkedin.com/in/nitinbhatnagar)
+- [Medium](https://medium.com/@captnitinbhatnagar) — Technical writing on ML and forecasting
+- [LinkedIn](https://www.linkedin.com/in/nitinombhatnagar/)
