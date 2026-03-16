@@ -1,6 +1,6 @@
 # Hi, I'm Nitin Bhatnagar
 
-**Director of Product Management** with a hands-on ML engineering skillset. I build products at the intersection of business strategy and applied AI.
+**AI Product Leader at a Fortune 500 enterprise** with a hands-on ML engineering skillset. I build products at the intersection of business strategy and applied AI.
 
 ## What I Work On
 
